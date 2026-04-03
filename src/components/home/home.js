@@ -3,8 +3,6 @@ import React, {useState, useEffect} from 'react';
 
 function Home(){
     const [jokes, setJokes] = useState([]);
-
-    const [filter] = useState('none');
     const [random, setRandom] = useState(0);
     const [showAnswer, setShowAnswer] = useState(false);
     const [count, setCount] = useState(5);
@@ -35,14 +33,13 @@ function Home(){
         }, 1000);
 
         return () => clearInterval(interval); 
-    }, [random, filter]); 
+    }, [random]); 
     useEffect(() => {
-        if (filtered.length > 0) {
-            setRandom(Math.floor(Math.random() * filtered.length));
+        if (jokes.length > 0) {
+            setRandom(Math.floor(Math.random() * jokes.length));
         }
-    }, [filter, jokes]); // runs after filter changes
+    }, []); 
 
-    const filtered = filter === 'none' ? jokes : jokes?.filter(x => x.type === filter);
     //console.log(filter)
     //console.log(random)
     //console.log(filtered[random]?.jokes)
@@ -52,15 +49,15 @@ function Home(){
 
                 <section className={styles.displayContainer}>
                     <div className={styles.setup}>
-                        <p>{filtered[random]?.jokes}</p>
+                        <p>{jokes[random]?.jokes}</p>
                     </div>
                     <div className={styles.answer}>
-                        {showAnswer ? filtered[random]?.response : 
+                        {showAnswer ? jokes[random]?.response : 
                         (
                             <p className={styles.rAnswer}><span className={styles.count}>{count}</span></p>
                         )}
                     </div>
-                    <button onClick={() => {setRandom(prev => (prev + 1) % filtered.length)}}>next joke</button>
+                    <button onClick={() => {setRandom(prev => (prev + 1) % jokes.length)}}>next joke</button>
                 </section>
             </section>
         </>
