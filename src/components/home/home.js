@@ -1,12 +1,8 @@
 import styles from './home.module.scss';
 import React, {useState, useEffect} from 'react';
-import {Link} from 'react-router-dom';
 
 function Home(){
     const [jokes, setJokes] = useState([]);
-    const [types, setTypes] = useState([])
-
-    const [filter, setFilter] = useState('none');
     const [random, setRandom] = useState(0);
     const [showAnswer, setShowAnswer] = useState(false);
     const [count, setCount] = useState(5);
@@ -47,12 +43,12 @@ function Home(){
         }, 1000);
 
         return () => clearInterval(interval); 
-    }, [random, filter]); 
+    }, [random]); 
     useEffect(() => {
         if (filtered.length > 0) {
             setRandom(Math.floor(Math.random() * filtered.length));
         }
-    }, [filter, jokes]); // runs after filter changes
+    }, [jokes]); // runs after filter changes
 
     const filtered = filter === 'none' ? jokes : jokes?.filter(x => x.type === filter);
     //console.log(filter)
