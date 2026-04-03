@@ -1,8 +1,12 @@
 import styles from './home.module.scss';
 import React, {useState, useEffect} from 'react';
+import {Link} from 'react-router-dom';
 
 function Home(){
     const [jokes, setJokes] = useState([]);
+    const [types, setTypes] = useState([])
+
+    const [filter, setFilter] = useState('none');
     const [random, setRandom] = useState(0);
     const [showAnswer, setShowAnswer] = useState(false);
     const [count, setCount] = useState(5);
@@ -43,12 +47,12 @@ function Home(){
         }, 1000);
 
         return () => clearInterval(interval); 
-    }, [random]); 
+    }, [random, filter]); 
     useEffect(() => {
         if (filtered.length > 0) {
             setRandom(Math.floor(Math.random() * filtered.length));
         }
-    }, [jokes]); // runs after filter changes
+    }, [filter, jokes]); // runs after filter changes
 
     const filtered = filter === 'none' ? jokes : jokes?.filter(x => x.type === filter);
     //console.log(filter)
@@ -68,7 +72,7 @@ function Home(){
                             <p className={styles.rAnswer}><span className={styles.count}>{count}</span></p>
                         )}
                     </div>
-                    <button onClick={() => {setRandom(prev => (prev + 1) % filtered.length)}}>next riddle</button>
+                    <button onClick={() => {setRandom(prev => (prev + 1) % filtered.length)}}>next joke</button>
                 </section>
             </section>
         </>
