@@ -38,7 +38,7 @@ function Home(){
         if (jokes.length > 0) {
             setRandom(Math.floor(Math.random() * jokes.length));
         }
-    }, []); 
+    }, [jokes.length]); 
 
     //console.log(filter)
     //console.log(random)
