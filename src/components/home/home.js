@@ -1,25 +1,13 @@
 import styles from './home.module.scss';
 import React, {useState, useEffect} from 'react';
-import {Link} from 'react-router-dom';
 
 function Home(){
     const [jokes, setJokes] = useState([]);
-    const [types, setTypes] = useState([])
 
-    const [filter, setFilter] = useState('none');
+    const [filter] = useState('none');
     const [random, setRandom] = useState(0);
     const [showAnswer, setShowAnswer] = useState(false);
     const [count, setCount] = useState(5);
-
-    useEffect(() => {
-       async function getTypes(){
-           const response = await fetch('types.json');
-           const result = await response.json();
-           //console.log(result.types)
-           setTypes(result.types)
-       }
-       getTypes()
-    },[]);
 
     useEffect(() => {
         async function getJokes(){
