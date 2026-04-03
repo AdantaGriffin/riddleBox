@@ -1,0 +1,20 @@
+header{
+    height: 15vh;
+    text-align: center;
+    font-family: "Caveat Brush";
+    font-size: 25px;
+    color: lightblue;
+    text-shadow: 1px 1px 10px gold;
+    .headerContainer{
+        height: 90%;
+        width: 90%;
+        margin: auto;
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+
+        h3{
+            position: relative;
+            bottom: 60px;
+        }
+    }
+}

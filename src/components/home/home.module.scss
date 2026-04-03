@@ -1,0 +1,68 @@
+.home{
+    height: 85vh;
+    font-family: "Shadows Into Light Two";
+    font-size: 1.5em;
+    .homeNav{
+        .homeList{
+            list-style: none;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+            padding: 0;
+            margin: 0;
+            height: 10vh;
+            align-items: center;
+
+            .homeLink{
+                height: 100%;
+                align-content: center;
+                text-align: center;
+
+                button{
+                    background-color: transparent;
+                    border: .5px solid gold;
+                    border-radius: 20px;
+                    padding: 10px 20px;
+                    background-color: lightblue;
+                    color: white;
+                    font-family: "Caveat Brush";
+                    font-size: .7em;
+                    &:hover {
+                        cursor: pointer;
+                        box-shadow: inset 1px 1px 5px black;
+                    }
+                }
+
+            }
+        }
+    }
+
+    .displayContainer{
+        height: 100%;
+        display: grid;
+        grid-template-rows:60% 20%;
+        text-align: center;
+        align-items: center;
+        .setup{}
+        .answer{
+            .rAnswer{}
+            .count{
+                color: red;
+                font-size: 2em;
+            }
+        }
+        button{
+            height: 100%;
+            font-family: "Caveat Brush";
+            font-size: 1.5em;
+            background-color: lightblue;
+            color: white;
+            border: .5px solid grey;
+            &:hover {
+                cursor: pointer;
+            }
+            &:active {
+                box-shadow: inset 1px 1px 5px black;
+            }
+        }
+    }
+}

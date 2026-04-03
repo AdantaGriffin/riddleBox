@@ -1,0 +1,20 @@
+{
+
+    "types":[
+        {
+            "type":"LATEST"
+        },
+        {
+            "type":"POPPULAR"
+        },
+        {
+            "type":"DONT"
+        },
+        {
+            "type":"FAMILY"
+        },
+        {
+            "type":"CLEAN"
+        }
+    ]
+}

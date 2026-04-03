@@ -1,0 +1,154 @@
+{
+    "jokes":[
+        {
+            "id":"lat1",
+            "type":"latest",
+            "jokes":" I am sometimes cold, sometimes warm, but never wet. I can fly without wings, flow without water, and cry without eyes. What am I?",
+            "response":"A Cloud"
+        },
+        {
+            "id":"lat2",
+            "type":"latest",
+            "jokes":"What can you hold in your right hand, but never in your left hand?",
+            "response":"Your Left Hand"
+        },
+        {
+            "id":"lat3",
+            "type":"latest",
+            "jokes":"What has words, but never speaks?",
+            "response":"A Book"
+        },
+        {
+            "id":"lat4",
+            "type":"latest",
+            "jokes":"Why can you never trust an atom?",
+            "response":"Because they make everything up"
+        },
+        {
+            "id":"lat5",
+            "type":"latest",
+            "jokes":" I'm always in motion, yet I never get tired. What am I?",
+            "response":"A Stream | Ocean etc.."
+        },
+        {
+            "id":"pop1",
+            "type":"popular",
+            "jokes":"As I walked along the path I saw something with four fingers and one thumb, but it was not flesh, fish, bone or fowl.",
+            "response":"A Glove"
+        },
+        {
+            "id":"pop2",
+            "type":"popular",
+            "jokes":"What comes once in a minute, twice in a moment, but never in a thousand years?",
+            "response":"The letter M"
+        },
+        {
+            "id":"pop3",
+            "type":"popular",
+            "jokes":"I’m tall when I’m young, and I’m short when I’m old. What am I?",
+            "response":"A Candle"
+        },
+        {
+            "id":"pop4",
+            "type":"popular",
+            "jokes":"The more you take out of me, the bigger I get. What am I?",
+            "response":"A Whole"
+        },
+        {
+            "id":"pop5",
+            "type":"popular",
+            "jokes":"Walk on the living, they don't even mumble. Walk on the dead, they mutter and grumble.",
+            "response":"A Leaf"
+        },
+        {
+            "id":"dl1",
+            "type":"dont look",
+            "jokes":"I come in a lot of different sizes. Sometimes, I drip a little. If you blow me, it feels really good. What am I?",
+            "response":"Your Nose"
+        },
+        {
+            "id":"dl2",
+            "type":"dont look",
+            "jokes":"You stick your poles inside me. You tie me down to get me up. I get wet before you do. What am I?",
+            "response":"A Tent"
+        },
+        {
+            "id":"dl3",
+            "type":"dont look",
+            "jokes":"What four-letter word begins with “f” and ends with “k,” and if you can’t get it you can always just use your hands?",
+            "response":"A Fork."
+        },
+        {
+            "id":"dl4",
+            "type":"dont look",
+            "jokes":"All day long it’s in and out. I discharge loads from my shaft. Both men and women go down on me. What am I?",
+            "response":"An Elevator"
+        },
+        {
+            "id":"dl5",
+            "type":"dont look",
+            "jokes":"I’m spread out before being eaten. Your tongue gets me off. Sometimes people lick my nuts. What am I?",
+            "response":"Peanut Butter"
+        },
+        {
+            "id":"family1",
+            "type":"family",
+            "jokes":"First, think of the color of the clouds. Next, think of the color of snow. Now, think of the color of a bright, full moon. Now, answer quickly: What do cows drink?",
+            "response":"Water"
+        },
+        {
+            "id":"family2",
+            "type":"family",
+            "jokes":"What has a head, a tail, is brown and has no legs?",
+            "response":"A Penny"
+        },
+        {
+            "id":"family3",
+            "type":"family",
+            "jokes":"What breaks yet never falls, and what falls yet never breaks?",
+            "response":"Day and Night"
+        },
+        {
+            "id":"family4",
+            "type":"family",
+            "jokes":"A man looks at a painting in a museum and says, “Brothers and sisters, I have none, but that man’s father is my father’s son.” Who is in the painting?",
+            "response":"The man's Son"
+        },
+        {
+            "id":"family5",
+            "type":"family",
+            "jokes":"The person who makes it has no need for it; the person who buys it has no use for it. The person who uses it can neither see nor feel it. What is it?",
+            "response":"A Coffin"
+        },
+        {
+            "id":"clean1",
+            "type":"clean",
+            "jokes":"What can you catch, but not throw?",
+            "response":"A Cold"
+        },
+        {
+            "id":"clean2",
+            "type":"clean",
+            "jokes":"What has a bottom at the top?",
+            "response":"Your Legs"
+        },
+        {
+            "id":"clean3",
+            "type":"clean",
+            "jokes":"What asks no questions but must be answered?",
+            "response":"A Phone"
+        },
+        {
+            "id":"clean4",
+            "type":"clean",
+            "jokes":" What is red and smells like blue paint?",
+            "response":"Red Paint"
+        },
+        {
+            "id":"clean5",
+            "type":"clean",
+            "jokes":"What gets smaller every time it takes a bath?",
+            "response":"A Bar Of Soap"
+        }
+    ]
+}
