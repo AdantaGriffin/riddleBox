@@ -7,7 +7,7 @@ function Header(){
             <header className={styles.header}>
                 <div className={styles.headerContainer}>
                     <h1>🤓RiddleBox</h1>
-                    <h3>your daily dose of laughter</h3>
+                    <h3>Secrets Hidden In Plain Sight</h3>
                 </div>
             </header>
         </>

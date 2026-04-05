@@ -2,19 +2,13 @@
 
     "types":[
         {
-            "type":"LATEST"
+            "type":"easy"
         },
         {
-            "type":"POPPULAR"
+            "type":"medium"
         },
         {
-            "type":"DONT"
-        },
-        {
-            "type":"FAMILY"
-        },
-        {
-            "type":"CLEAN"
+            "type":"hard"
         }
     ]
 }

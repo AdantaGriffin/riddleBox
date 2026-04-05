@@ -1,41 +1,39 @@
+.isactive{
+    background-color: lightblue;
+    color: white !important;
+}
 .home{
     height: 85vh;
     font-family: "Shadows Into Light Two";
     font-size: 1.5em;
-    .homeNav{
-        .homeList{
+    display: grid;
+    grid-template-rows: 20% 80%;
+    width: 95%;
+    margin: auto;
+    .nav{
+        align-content: center;
+        .navList{
             list-style: none;
-            display: grid;
-            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+            display: flex;
             padding: 0;
             margin: 0;
-            height: 10vh;
-            align-items: center;
-
-            .homeLink{
-                height: 100%;
-                align-content: center;
-                text-align: center;
-
-                button{
-                    background-color: transparent;
-                    border: .5px solid gold;
-                    border-radius: 20px;
-                    padding: 10px 20px;
+            justify-content: space-evenly;
+            a{
+                border: 1px solid lightblue;
+                border-radius: 20px;
+                padding: 0 20px;
+                color: black;
+                text-decoration: none;
+                color: lightblue;
+                text-shadow: 1px 1px 1px grey;
+                &:hover {
+                    cursor: pointer;
                     background-color: lightblue;
-                    color: white;
-                    font-family: "Caveat Brush";
-                    font-size: .7em;
-                    &:hover {
-                        cursor: pointer;
-                        box-shadow: inset 1px 1px 5px black;
-                    }
+                    color: white
                 }
-
             }
         }
     }
-
     .displayContainer{
         height: 100%;
         display: grid;

@@ -1,0 +1,580 @@
+{
+    "riddles":[
+        {
+            "id":"easy1",
+            "level":"easy",
+            "riddle":"What has keys but can’t open locks?",
+            "answer":"A Piano"
+        },
+        {
+            "id":"easy2",
+            "level":"easy",
+            "riddle":"What has a heart that doesn’t beat?",
+            "answer":"An Artichoke"
+        },
+        {
+            "id":"easy3",
+            "level":"easy",
+            "riddle":"What has hands but can’t clap?",
+            "answer":"A Clock"
+        },
+        {
+            "id":"easy4",
+            "level":"easy",
+            "riddle":"What gets wetter the more it dries?",
+            "answer":"A Towel"
+        },
+        {
+            "id":"easy5",
+            "level":"easy",
+            "riddle":" What has a face and two hands but no arms or legs??",
+            "answer":"A Clock"
+        },
+        {
+            "id":"easy6",
+            "level":"easy",
+            "riddle":" What has one eye but can’t see??",
+            "answer":"A Needle"
+        },
+        {
+            "id":"easy7",
+            "level":"easy",
+            "riddle":"What can travel around the world while staying in a corner??",
+            "answer":"A Stamp"
+        },
+        {
+            "id":"easy8",
+            "level":"easy",
+            "riddle":"What has a neck but no head??",
+            "answer":"A Bottle"
+        },
+        {
+            "id":"easy9",
+            "level":"easy",
+            "riddle":"What is full of holes but still holds water?",
+            "answer":"A Sponge"
+        },
+        {
+            "id":"easy10",
+            "level":"easy",
+            "riddle":"What goes up but never comes down??",
+            "answer":"Your Age"
+        },
+        {
+            "id":"easy11",
+            "level":"easy",
+            "riddle":"What has legs but doesn’t walk??",
+            "answer":"Your Table"
+        },
+        {
+            "id":"easy12",
+            "level":"easy",
+            "riddle":"What has teeth but doesn’t bite??",
+            "answer":"Your Comb"
+        },
+        {
+            "id":"easy13",
+            "level":"easy",
+            "riddle":"What can you catch but not throw??",
+            "answer":"A Cold"
+        },
+        {
+            "id":"easy14",
+            "level":"easy",
+            "riddle":"What begins with T, ends with T, and has T in it??",
+            "answer":"A Teapot"
+        },
+        {
+            "id":"easy15",
+            "level":"easy",
+            "riddle":"What has a thumb and four fingers but is not alive??",
+            "answer":"A Glove"
+        },
+        {
+            "id":"easy16",
+            "level":"easy",
+            "riddle":"What can you break without touching it??",
+            "answer":"A Promise"
+        },
+        {
+            "id":"easy17",
+            "level":"easy",
+            "riddle":"What runs but never walks??",
+            "answer":"Water"
+        },
+        {
+            "id":"easy18",
+            "level":"easy",
+            "riddle":"What has ears but cannot hear??",
+            "answer":"Corn"
+        },
+        {
+            "id":"easy19",
+            "level":"easy",
+            "riddle":"What has a bottom at the top??",
+            "answer":"Your Legs"
+        },
+        {
+            "id":"easy20",
+            "level":"easy",
+            "riddle":" What gets bigger the more you take away??",
+            "answer":"A Hole"
+        },
+        {
+            "id":"easy21",
+            "level":"easy",
+            "riddle":"What has many rings but no fingers??",
+            "answer":"A Tree"
+        },
+        {
+            "id":"easy22",
+            "level":"easy",
+            "riddle":"What kind of band never plays music??",
+            "answer":"A Rubberband"
+        },
+        {
+            "id":"easy23",
+            "level":"easy",
+            "riddle":"What has an eye but cannot see??",
+            "answer":"A Needle"
+        },
+        {
+            "id":"easy24",
+            "level":"easy",
+            "riddle":"What can fill a room but takes up no space??",
+            "answer":"Light"
+        },
+        {
+            "id":"easy25",
+            "level":"easy",
+            "riddle":"What has words but never speaks?",
+            "answer":"A Book"
+        },
+        {
+            "id":"medium1",
+            "level":"medium",
+            "riddle":"What has to be broken before you can use it?",
+            "answer":"Eggs"
+        },
+        {
+            "id":"medium2",
+            "level":"medium",
+            "riddle":" I’m tall when I’m young and short when I’m old. What am I?",
+            "answer":"A Candle"
+        },
+        {
+            "id":"medium3",
+            "level":"medium",
+            "riddle":"The more you take, the more you leave behind. What am I?",
+            "answer":"Footsteps"
+        },
+        {
+            "id":"medium4",
+            "level":"medium",
+            "riddle":"What month has 28 days?",
+            "answer":"All Months Have 28 Days"
+        },
+        {
+            "id":"medium5",
+            "level":"medium",
+            "riddle":"What is always in front of you but can’t be seen?",
+            "answer":"The Future"
+        },
+        {
+            "id":"medium6",
+            "level":"medium",
+            "riddle":"One-story yellow house; What color are the stairs?",
+            "answer":"One Story, No Stairs"
+        },
+        {
+            "id":"medium7",
+            "level":"medium",
+            "riddle":"What can you hold in your left hand but not your right hand?",
+            "answer":"Your Right Hand"
+        },
+        {
+            "id":"medium8",
+            "level":"medium",
+            "riddle":"What goes up and down but doesnt move?",
+            "answer":"Stairs"
+        },
+        {
+            "id":"medium9",
+            "level":"medium",
+            "riddle":"Drop me and I crack, Smile at me and I smile back?",
+            "answer":"A Mirror"
+        },
+        {
+            "id":"medium10",
+            "level":"medium",
+            "riddle":"Begins with “e” but contains one letter?",
+            "answer":"An Envelope"
+        },
+        {
+            "id":"medium11",
+            "level":"medium",
+            "riddle":"Man in rain doesn’t get wet—why?",
+            "answer":"Bald ()stupid i Know -_-"
+        },
+        {
+            "id":"medium12",
+            "level":"medium",
+            "riddle":"What gets sharper the more you use it?",
+            "answer":"Your Brain"
+        },
+        {
+            "id":"medium13",
+            "level":"medium",
+            "riddle":"Endless supply of letters but starts empty?",
+            "answer":"A Mailbox"
+        },
+        {
+            "id":"medium14",
+            "level":"medium",
+            "riddle":"What can you keep after giving it away?",
+            "answer":"Your Word"
+        },
+        {
+            "id":"medium15",
+            "level":"medium",
+            "riddle":"Saying it breaks it?",
+            "answer":"Silence"
+        },
+        {
+            "id":"medium16",
+            "level":"medium",
+            "riddle":"Goes through glass without breaking it?",
+            "answer":"Light"
+        },
+        {
+            "id":"medium17",
+            "level":"medium",
+            "riddle":"Shaves daily but beard stays?",
+            "answer":"A Barbar -_- (dont shoot the messenger)"
+        },
+        {
+            "id":"medium18",
+            "level":"medium",
+            "riddle":"Once in a minute, twice in a moment, never in a thousand years?",
+            "answer":" The Letter 'M'"
+        },
+        {
+            "id":"medium19",
+            "level":"medium",
+            "riddle":" Can’t talk but replies when spoken to?",
+            "answer":"An Echo"
+        },
+        {
+            "id":"medium20",
+            "level":"medium",
+            "riddle":" Bigger when more is taken away?",
+            "answer":"A Hole"
+        },
+        {
+            "id":"medium21",
+            "level":"medium",
+            "riddle":"Cities with no houses, rivers with no water?",
+            "answer":"A Map"
+        },
+        {
+            "id":"medium22",
+            "level":"medium",
+            "riddle":" Middle of March and April?",
+            "answer":"The Letter 'R'"
+        },
+        {
+            "id":"medium23",
+            "level":"medium",
+            "riddle":"Head, tail, brown, no legs?",
+            "answer":"A Penny"
+        },
+        {
+            "id":"medium24",
+            "level":"medium",
+            "riddle":"Break it without touching it?",
+            "answer":"A Promise"
+        },
+        {
+            "id":"medium25",
+            "level":"medium",
+            "riddle":"A Building with the most stories?",
+            "answer":"A Library"
+        },
+        {
+            "id":"medium26",
+            "level":"medium",
+            "riddle":"Always running, never tired?",
+            "answer":"A River"
+        },
+        {
+            "id":"medium27",
+            "level":"medium",
+            "riddle":"What can hear but not see or touch?",
+            "answer":"Sound"
+        },
+        {
+            "id":"medium28",
+            "level":"medium",
+            "riddle":"Comes down but never goes up?",
+            "answer":"Rain"
+        },
+        {
+            "id":"medium29",
+            "level":"medium",
+            "riddle":" Has a bed but never sleeps?",
+            "answer":"A River"
+        },
+        {
+            "id":"medium30",
+            "level":"medium",
+            "riddle":"Has a mouth but never eats?",
+            "answer":"A River"
+        },
+        {
+            "id":"medium31",
+            "level":"medium",
+            "riddle":"Has a ring but no finger?",
+            "answer":"A Phone"
+        },
+        {
+            "id":"medium32",
+            "level":"medium",
+            "riddle":"Branches but no fruit/tree?",
+            "answer":"A Bank"
+        },
+        {
+            "id":"medium33",
+            "level":"medium",
+            "riddle":"Spine but no bones?",
+            "answer":"A Book"
+        },
+        {
+            "id":"medium34",
+            "level":"medium",
+            "riddle":"Coat always wet when used?",
+            "answer":"Paint"
+        },
+        {
+            "id":"medium35",
+            "level":"medium",
+            "riddle":" Four wheels and flies?",
+            "answer":"Garbage Truck"
+        },
+        {
+            "id":"hard1",
+            "level":"hard",
+            "riddle":"Speak without a mouth, hear without ears?",
+            "answer":"An Echo"
+        },
+        {
+            "id":"hard2",
+            "level":"hard",
+            "riddle":"From a mine, to surrounded by wood?",
+            "answer":"Pencil Lead"
+        },
+        {
+            "id":"hard3",
+            "level":"hard",
+            "riddle":"Remove more, gets bigger?",
+            "answer":"A Hole"
+        },
+        {
+            "id":"hard4",
+            "level":"hard",
+            "riddle":"Disappears when you say its name?",
+            "answer":"Silence"
+        },
+        {
+            "id":"hard5",
+            "level":"hard",
+            "riddle":"Keys, space, enter—but no room?",
+            "answer":"A Keyboard"
+        },
+        {
+            "id":"hard6",
+            "level":"hard",
+            "riddle":"The more you have of it, the less you see?",
+            "answer":"Darkness"
+        },
+        {
+            "id":"hard7",
+            "level":"hard",
+            "riddle":"Fly without wings, cry without eyes?",
+            "answer":"A Cloud"
+        },
+        {
+            "id":"hard8",
+            "level":"hard",
+            "riddle":"Beginning, middle, and end but no length?",
+            "answer":"A Circle"
+        },
+        {
+            "id":"hard9",
+            "level":"hard",
+            "riddle":"What lets you see through a wall?",
+            "answer":"A Window"
+        },
+        {
+            "id":"hard10",
+            "level":"hard",
+            "riddle":"What has 13 hearts but no organs?",
+            "answer":"A Deck Of Cards"
+        },
+        {
+            "id":"hard11",
+            "level":"hard",
+            "riddle":"Room with no doors or windows?",
+            "answer":"Mushroom -_- (wack)"
+        },
+        {
+            "id":"hard12",
+            "level":"hard",
+            "riddle":"Always coming but never arrives?",
+            "answer":"Tomorrow"
+        },
+        {
+            "id":"hard13",
+            "level":"hard",
+            "riddle":"One head, one foot, four legs?",
+            "answer":"A Bed"
+        },
+        {
+            "id":"hard14",
+            "level":"hard",
+            "riddle":"If two’s company and three’s a crowd, what are four and five?",
+            "answer":"Nine -_- (uber trash)"
+        },
+        {
+            "id":"hard15",
+            "level":"hard",
+            "riddle":"What word is spelled wrong in every dictionary?",
+            "answer":"Wrong"
+        },
+        {
+            "id":"hard16",
+            "level":"hard",
+            "riddle":" Has a tail but no body?",
+            "answer":"A Coin"
+        },
+        {
+            "id":"hard17",
+            "level":"hard",
+            "riddle":"Forward I’m heavy, backward I’m not?",
+            "answer":"Ton (noT)"
+        },
+        {
+            "id":"hard18",
+            "level":"hard",
+            "riddle":"Begins with P, ends with E, has thousands of letters?",
+            "answer":"Post Office"
+        },
+        {
+            "id":"hard19",
+            "level":"hard",
+            "riddle":" What can’t be put in a saucepan?",
+            "answer":"Its Lid"
+        },
+        {
+            "id":"hard20",
+            "level":"hard",
+            "riddle":"What can’t be put in a saucepan?",
+            "answer":"Roads"
+        },
+        {
+            "id":"hard21",
+            "level":"hard",
+            "riddle":"Has an eye , moves fast but cant see?",
+            "answer":"A Hurricane"
+        },
+        {
+            "id":"hard22",
+            "level":"hard",
+            "riddle":"Runs, has a mouth, never talks?",
+            "answer":"A River"
+        },
+        {
+            "id":"hard23",
+            "level":"hard",
+            "riddle":"Not alive on it own but grows?",
+            "answer":"A Fire"
+        },
+        {
+            "id":"hard24",
+            "level":"hard",
+            "riddle":"Brings back memories, makes you cry or laugh?",
+            "answer":"Memory"
+        },
+        {
+            "id":"hard25",
+            "level":"hard",
+            "riddle":"Has many needles but doesn’t sew?",
+            "answer":"A Pine Tree"
+        },
+        {
+            "id":"hard26",
+            "level":"hard",
+            "riddle":"Can be held without touching?",
+            "answer":"Yopur Breadth"
+        },
+        {
+            "id":"hard27",
+            "level":"hard",
+            "riddle":"No life but can die?",
+            "answer":"A Battery"
+        },
+        {
+            "id":"hard28",
+            "level":"hard",
+            "riddle":"Begins with one, ends with none?",
+            "answer":"Onion -_- (borderline trash)"
+        },
+        {
+            "id":"hard29",
+            "level":"hard",
+            "riddle":"Get broken without being held?",
+            "answer":"A Promise"
+        },
+        {
+            "id":"hard30",
+            "level":"hard",
+            "riddle":"",
+            "answer":""
+        },
+        {
+            "id":"hard31",
+            "level":"hard",
+            "riddle":"",
+            "answer":""
+        },
+        {
+            "id":"hard32",
+            "level":"hard",
+            "riddle":"Has an end but no beginning?",
+            "answer":"A Stick"
+        },
+        {
+            "id":"hard33",
+            "level":"hard",
+            "riddle":"Runs all day but stays in place?",
+            "answer":"A Clock"
+        },
+        {
+            "id":"hard34",
+            "level":"hard",
+            "riddle":"Head and tail but no body?",
+            "answer":"A Coin"
+        },
+        {
+            "id":"hard35",
+            "level":"hard",
+            "riddle":"Tree you can carry in your hand?",
+            "answer":"Palm"
+        },
+        {
+            "id":"hard36",
+            "level":"hard",
+            "riddle":"Always old, sometimes new?",
+            "answer":"The Moon"
+        }
+    ]
+}
