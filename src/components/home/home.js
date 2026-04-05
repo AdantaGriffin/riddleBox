@@ -32,7 +32,7 @@ function Home(){
 
         const timer = setTimeout(() => {
             setShowAnswer(true);
-        }, 3000); 
+        }, 10000); 
         
         const interval = setInterval(() => {
             setCount(prev => {
