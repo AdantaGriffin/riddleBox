@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom';
 function Home(){
     const [riddles, setRiddles] = useState([]);
     const [showAnswer, setShowAnswer] = useState(false);
-    const [count, setCount] = useState(3);
+    const [count, setCount] = useState(10);
     const [level, setLevel] = useState('');
     const [index, setIndex] = useState(0)
     //fetches data when page homepage loads
@@ -28,7 +28,7 @@ function Home(){
         if (!current) return;
 
         setShowAnswer(false); 
-        setCount(3);
+        setCount(10);
 
         const timer = setTimeout(() => {
             setShowAnswer(true);
@@ -49,7 +49,7 @@ function Home(){
             clearTimeout(timer);
             clearInterval(interval);
         }
-    }, [index, level, riddles]);
+    }, [index, level, riddles, current]);
     return(
         <>
             <section className={styles.home}>
